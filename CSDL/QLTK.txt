@@ -1,0 +1,17 @@
+root,root
+admin,admin
+admin,root
+root,admin
+a,Kc6cecch6hm3!
+b,Kc6cecch6hm3!
+admin123,Admin@123!
+admin1999,Admin@123!
+duong,02022002Duong@
+abcabc,Phanthai12*2
+namthai03,Phanthai12*2
+giao,Giao1808@
+giao18082001,Giao1808@
+admin111,Giao1808@
+quyet,02022002Duong@
+tien,02022002Duong@
+tien123,02022002Duong@
